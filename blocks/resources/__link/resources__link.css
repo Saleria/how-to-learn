@@ -1,4 +1,4 @@
-.resources__logo {
+.resources__link {
     width: 270px;
     height: 38px;
     display: flex;
@@ -6,6 +6,6 @@
     transition: all .3s linear;
   }
   
-  .resources__logo:hover{
+  .resources__link:hover{
     opacity: .5;
   }
